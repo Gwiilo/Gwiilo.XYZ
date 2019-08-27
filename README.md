@@ -1,2 +1,2 @@
 # Gwiilo.XYZ
-Gwiilo.XYZ's official files
+The files for the site Gwiilo.XYZ
